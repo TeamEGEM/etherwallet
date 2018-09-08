@@ -140,7 +140,7 @@
         <p class="small"><a href="https://myetherwallet.github.io/knowledge-base/networks/run-your-own-node-with-myetherwallet.html" target="_blank" rel="noopener noreferrer"> Instructions can be found here </a></p>
 
         <div ng-show="browserProtocol=='https:'" class="alert alert-danger small" translate="NODE_Warning">
-          Your node must be HTTPS in order to connect to it via MyEgemWallet.com. You can [download the MyEgemWallet repo & run it locally](https://github.com/kvhnuke/etherwallet/releases/latest) to connect to your local node. Or, get free SSL certificate via [LetsEncrypt](https://letsencrypt.org/)</a>.
+          Your node must be HTTPS in order to connect to it via MyEgemWallet.com. You can [download the MyEgemWallet repo & run it locally](https://github.com/TeamEGEM/etherwallet) to connect to your local node. Or, get free SSL certificate via [LetsEncrypt](https://letsencrypt.org/)</a>.
         </div>
 
         <section class="row">
@@ -983,7 +983,7 @@
           <strong>
             {{etherBalance}}
           </strong>
-          ETH
+          EGEM
         </li>
       </ul>
 
@@ -1022,10 +1022,10 @@
       </h5>
       <ul class="account-info">
         <li>
-          <a href="https://etherscan.io/address/{{wallet.getAddressString()}}"
+          <a href="https://explorer.egem.io/addr/{{wallet.getAddressString()}}"
              target="_blank"
              rel="noopener noreferrer">
-               https://etherscan.io/address/ {{wallet.getAddressString()}}
+               https://explorer.egem.io/addr/{{wallet.getAddressString()}}
           </a>
         </li>
       </ul>
@@ -1277,11 +1277,11 @@
               </td>
 
               <td class="text-center">
-                <a href="https://ethplorer.io/address/{{wallet.getAddressString()}}"
+                <a href="https://explorer.egem.io/addr/{{wallet.getAddressString()}}"
                      target="_blank"
                      rel="noopener noreferrer"
-                     title="https://ethplorer.io/address/{{wallet.getAddressString()}}">
-                  <img src="images/icon-external-link.svg" title="https://ethplorer.io/address/{{wallet.getAddressString()}}" ng-click="removeTokenFromLocal(token.symbol)" ng-show="token.type!=='default'" />
+                     title="https://explorer.egem.io/addr/{{wallet.getAddressString()}}">
+                  <img src="images/icon-external-link.svg" title="http://erc20.egem.io/addr/{{wallet.getAddressString()}}" ng-click="removeTokenFromLocal(token.symbol)" ng-show="token.type!=='default'" />
                 </a>
               </td>
 
@@ -1820,7 +1820,7 @@
             </tr>
             <tr>
               <td class="small text-right">Amount to Send:</td>
-              <td class="small text-left mono">{{parsedSignedTx.value}} ETH</td>
+              <td class="small text-left mono">{{parsedSignedTx.value}} EGEM</td>
             </tr>
             <tr>
               <td class="small text-right">Account Balance:</td>
@@ -1840,7 +1840,7 @@
             </tr>
             <tr>
               <td class="small text-right">Gas Price:</td>
-              <td class="small text-left mono">{{parsedSignedTx.gasPrice.gwei}} GWEI <small>({{parsedSignedTx.gasPrice.eth}} ETH)</small>
+              <td class="small text-left mono">{{parsedSignedTx.gasPrice.gwei}} GWEI <small>({{parsedSignedTx.gasPrice.eth}} EGEM)</small>
               </td>
             </tr>
             <tr>
@@ -2622,7 +2622,7 @@
             </tr>
             <tr>
               <td class="small text-right">Amount to Send:</td>
-              <td class="small text-left mono">{{parsedSignedTx.value}} ETH</td>
+              <td class="small text-left mono">{{parsedSignedTx.value}} EGEM</td>
             </tr>
             <tr>
               <td class="small text-right">Account Balance:</td>
@@ -2642,7 +2642,7 @@
             </tr>
             <tr>
               <td class="small text-right">Gas Price:</td>
-              <td class="small text-left mono">{{parsedSignedTx.gasPrice.gwei}} GWEI <small>({{parsedSignedTx.gasPrice.eth}} ETH)</small>
+              <td class="small text-left mono">{{parsedSignedTx.gasPrice.gwei}} GWEI <small>({{parsedSignedTx.gasPrice.eth}} EGEM)</small>
               </td>
             </tr>
             <tr>
@@ -6210,7 +6210,7 @@
             </tr>
             <tr>
               <td class="small text-right">Amount to Send:</td>
-              <td class="small text-left mono">{{parsedSignedTx.value}} ETH</td>
+              <td class="small text-left mono">{{parsedSignedTx.value}} EGEM</td>
             </tr>
             <tr>
               <td class="small text-right">Account Balance:</td>
@@ -6230,7 +6230,7 @@
             </tr>
             <tr>
               <td class="small text-right">Gas Price:</td>
-              <td class="small text-left mono">{{parsedSignedTx.gasPrice.gwei}} GWEI <small>({{parsedSignedTx.gasPrice.eth}} ETH)</small>
+              <td class="small text-left mono">{{parsedSignedTx.gasPrice.gwei}} GWEI <small>({{parsedSignedTx.gasPrice.eth}} EGEM)</small>
               </td>
             </tr>
             <tr>
@@ -7845,7 +7845,7 @@
             </tr>
             <tr>
               <td class="small text-right">Amount to Send:</td>
-              <td class="small text-left mono">{{parsedSignedTx.value}} ETH</td>
+              <td class="small text-left mono">{{parsedSignedTx.value}} EGEM</td>
             </tr>
             <tr>
               <td class="small text-right">Account Balance:</td>
@@ -7865,7 +7865,7 @@
             </tr>
             <tr>
               <td class="small text-right">Gas Price:</td>
-              <td class="small text-left mono">{{parsedSignedTx.gasPrice.gwei}} GWEI <small>({{parsedSignedTx.gasPrice.eth}} ETH)</small>
+              <td class="small text-left mono">{{parsedSignedTx.gasPrice.gwei}} GWEI <small>({{parsedSignedTx.gasPrice.eth}} EGEM)</small>
               </td>
             </tr>
             <tr>

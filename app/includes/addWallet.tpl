@@ -312,7 +312,7 @@
           <strong>
             {{etherBalance}}
           </strong>
-          ETH
+          EGEM
         </li>
       </ul>
 
@@ -351,10 +351,10 @@
       </h5>
       <ul class="account-info">
         <li>
-          <a href="https://etherscan.io/address/{{wallet.getAddressString()}}"
+          <a href="https://explorer.egem.io/addr/{{wallet.getAddressString()}}"
              target="_blank"
              rel="noopener noreferrer">
-               https://etherscan.io/address/ {{wallet.getAddressString()}}
+               https://explorer.egem.io/addr/{{wallet.getAddressString()}}
           </a>
         </li>
       </ul>
@@ -606,11 +606,11 @@
               </td>
 
               <td class="text-center">
-                <a href="https://ethplorer.io/address/{{wallet.getAddressString()}}"
+                <a href="https://explorer.egem.io/addr/{{wallet.getAddressString()}}"
                      target="_blank"
                      rel="noopener noreferrer"
-                     title="https://ethplorer.io/address/{{wallet.getAddressString()}}">
-                  <img src="images/icon-external-link.svg" title="https://ethplorer.io/address/{{wallet.getAddressString()}}" ng-click="removeTokenFromLocal(token.symbol)" ng-show="token.type!=='default'" />
+                     title="https://explorer.egem.io/addr/{{wallet.getAddressString()}}">
+                  <img src="images/icon-external-link.svg" title="http://erc20.egem.io/addr/{{wallet.getAddressString()}}" ng-click="removeTokenFromLocal(token.symbol)" ng-show="token.type!=='default'" />
                 </a>
               </td>
 

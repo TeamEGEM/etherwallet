@@ -1,7 +1,7 @@
 <div class="" ng-controller="helpersCtrl">
 
   <h1>
-    Convert Ethererum Units (e.g. Ether <-> Wei)
+    Convert Ethergem Units (e.g. Ether <-> Wei)
   </h1>
 
   <h2 class="p">
