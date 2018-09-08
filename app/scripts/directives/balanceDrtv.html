@@ -40,7 +40,7 @@
         </a>
       </li>
       <li ng-show="ajaxReq.type == 'ETH'">
-        <a href="https://ethplorer.io/address/{{wallet.getAddressString()}}" target="_blank" rel="noopener noreferrer">
+        <a href="http://erc20.egem.io/{{wallet.getAddressString()}}" target="_blank" rel="noopener noreferrer">
           Tokens (Ethplorer.io)
         </a>
       </li>
@@ -150,7 +150,7 @@
           {{ajaxReq.blockExplorerTX.match('://(.*?)/')[1]}}
       </a>
       <span ng-show="ajaxReq.type == 'ETH'"> or
-        <a href="https://ethplorer.io/address/{{wallet.getAddressString()}}"
+        <a href="http://erc20.egem.io/{{wallet.getAddressString()}}"
            target="_blank"
            rel="noopener noreferrer">
              ethplorer.io
