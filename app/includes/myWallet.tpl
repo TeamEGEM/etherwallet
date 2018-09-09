@@ -3,7 +3,7 @@
   <div class="mywallet-container">
     <div class="grid-frame">
       <div id="walletsContainer">
-        <!-- Loop begins for each wallets =====================================================-->
+        <!-- Loop begins for each wallets ====-->
         <h1 translate="NAV_YourWallets">Your Wallets</h1>
         <div class="data" ng-repeat="twallet in allWallets track by $index">
           <div class="wallet grid-bg">
@@ -67,7 +67,7 @@
             </div>
           </div>
         </div>
-        <!-- Loop ends for each wallets =====================================================-->
+        <!-- Loop ends for each wallets ====-->
         <h1 translate="MYWAL_WatchOnly">Your Watch-Only Accounts</h1>
         <div class="data" ng-repeat="twallet in allWatchOnly track by $index">
           <div class="wallet grid-bg">

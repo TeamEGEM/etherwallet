@@ -829,11 +829,11 @@ HELP_15_Title               : '15) Hvorfor har ikke kontoen jeg nettopp opprette
 HELP_15_Desc_1              : 'Kontoer vil kun dukke opp i en blokkjede-utforsker når kontoen har hatt aktivitet&mdash;for eksempel, når du har overført Ether til den. ',
 
 HELP_16_Title               : '16) Hvordan kan jeg sjekke saldoen på kontoen min? ',
-<<<<<<< HEAD
+
 HELP_16_Desc_1              : 'Du kan bruke en blokkjede-utforsker som [explorer.egem.io](https://explorer.egem.io/). Lim inn adressen i søkefeltet og den vil finne fram adressen og transaksjonshistorikken. For eksempel, her ser du hvordan vår [donasjonskonto](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) ser ut på explorer.egem.io ',
-=======
+
 HELP_16_Desc_1              : 'Du kan bruke en blokkjede-utforsker som [etherscan.io](https://etherscan.io/). Lim inn adressen i søkefeltet og den vil finne fram adressen og transaksjonshistorikken. For eksempel, her ser du hvordan vår [donasjonskonto](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) ser ut på etherscan.io ',
->>>>>>> parent of 63baceb6... more rebranding
+
 
 HELP_17_Title               : '17) Hvorfor vises ikke saldoen min når jeg låser opp lommeboken min? ',
 HELP_17_Desc_1              : 'Dette er mest sannsynlig fordi du er bak en brannmur. API-en vi bruker for å innhente saldoen blokkeres ofte av brannmurer av ymse årsaker. Du vil fortsatt være i stand til å sende transaksjoner, du må bare bruke en annen metode for å se nevnte saldo, som explorer.egem.io ',
