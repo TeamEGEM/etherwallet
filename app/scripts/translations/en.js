@@ -567,7 +567,7 @@ TXFEE_Desc                      :  'The TX Fee is paid to miners for including y
 
 VIEWWALLET_HidePrivKey          :  '(hide)',
 VIEWWALLET_ShowPrivKey          :  '(show)',
-VIEWWALLET_Subtitle             :  'This allows you to download different versions of private keys and re-print your paper wallet. You may want to do this in order to [import your account into Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). If you want to check your balance, we recommend using a blockchain explorer like [etherscan.io](https://etherscan.io/).',
+VIEWWALLET_Subtitle             :  'This allows you to download different versions of private keys and re-print your paper wallet. You may want to do this in order to [import your account into Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). If you want to check your balance, we recommend using a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/).',
 VIEWWALLET_Subtitle_Short       :  'This allows you to download different versions of private keys and re-print your paper wallet.',
 VIEWWALLET_SuccessMsg           :  'Success! Here are your wallet details.',
 
@@ -667,7 +667,7 @@ HELP_15_Title                   :  '15) Why hasn\'t the account I just created s
 
 HELP_16_Desc_1                  :  'You can use a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on explorer.egem.io',
 
-HELP_16_Desc_1                  :  'You can use a blockchain explorer like [etherscan.io](https://etherscan.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on etherscan.io',
+HELP_16_Desc_1                  :  'You can use a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on etherscan.io',
 
 HELP_16_Title                   :  '16) How do I check the balance of my account?',
 HELP_17_Desc_1                  :  'This is most likely due to the fact that you are behind a firewall. The API that we use to get the balance and convert said balance is often blocked by firewalls for whatever reason. You will still be able to send transactions, you just need to use a different method to see said balance, like explorer.egem.io',
@@ -756,7 +756,7 @@ HELP_5CX_Desc_6                 :  'Click the "Load unpacked extension..." butto
 HELP_5CX_Desc_7                 :  'Navigate to the now-unzipped folder that you downloaded earlier. Click "select".',
 HELP_5CX_Desc_8                 :  'The extension should now show up in your extensions and in your Chrome Extension bar.',
 HELP_5CX_Title                  :  '5) How can I install this extension from the repo instead of the Chrome Store?',
-HELP_7_Desc_0                   :  'Erc20.egem.io(http://erc20.egem.io/) is a great way to explore tokens and find the decimals of a token.',
+HELP_7_Desc_0                   :  'Explorer.egem.io(https://explorer.egem.io/) is a great way to explore tokens and find the decimals of a token.',
 HELP_7_Desc_1                   :  'Navigate to the "Send Ether & Tokens" page.',
 HELP_7_Desc_10                  :  'You can now send that token as well as see it\'s balance in the sidebar.',
 HELP_7_Desc_11                  :  'Click "Generate Transaction".',

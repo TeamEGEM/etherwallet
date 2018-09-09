@@ -555,7 +555,7 @@ ADD_Secalot_0b              : 'Re-open MyEtherWallet using [Chrome](https://www.
 ADD_Secalot_scan            : 'Connect your Secalot ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'This allows you to download different versions of private keys and re-print your paper wallet. You may want to do this in order to [import your account into Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). If you want to check your balance, we recommend using a blockchain explorer like [etherscan.io](https://etherscan.io/). ',
+VIEWWALLET_Subtitle         : 'This allows you to download different versions of private keys and re-print your paper wallet. You may want to do this in order to [import your account into Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). If you want to check your balance, we recommend using a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). ',
 VIEWWALLET_Subtitle_Short   : 'This allows you to download different versions of private keys and re-print your paper wallet. ',
 VIEWWALLET_SuccessMsg       : 'Success! Here are your wallet details. ',
 VIEWWALLET_ShowPrivKey      : '(show)',
@@ -747,7 +747,7 @@ HELP_5CX_Desc_7             : 'Navigate to the now-unzipped folder that you down
 HELP_5CX_Desc_8             : 'The extension should now show up in your extensions and in your Chrome Extension bar. ',
 
 HELP_7_Title                : '7) How do I send Tokens & add custom tokens? ',
-HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) is a great way to explore tokens and find the decimals of a token. ',
+HELP_7_Desc_0               : 'Explorer.egem.io(https://explorer.egem.io/) is a great way to explore tokens and find the decimals of a token. ',
 HELP_7_Desc_1               : 'Navigate to the "Ether ve Tokens göndermeks" page. ',
 HELP_7_Desc_2               : 'Unlock your wallet. ',
 HELP_7_Desc_3               : 'Enter the address you would like to send to in the "To Address:" field. ',
@@ -835,7 +835,7 @@ HELP_16_Title               : '16) How do I check the balance of my account? ',
 
 HELP_16_Desc_1              : 'You can use a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). Paste your address into the search bar and it will pull up your account and transaction history. For example, here\'s what our [donation account](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on explorer.egem.io ',
 
-HELP_16_Desc_1              : 'You can use a blockchain explorer like [etherscan.io](https://etherscan.io/). Paste your address into the search bar and it will pull up your account and transaction history. For example, here\'s what our [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on etherscan.io ',
+HELP_16_Desc_1              : 'You can use a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). Paste your address into the search bar and it will pull up your account and transaction history. For example, here\'s what our [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on etherscan.io ',
 
 
 HELP_17_Title               : '17) Why isn\'t my balance showing up when I unlock my wallet? ',

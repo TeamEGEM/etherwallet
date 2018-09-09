@@ -466,7 +466,7 @@ MYWAL_Content_2             : 'Győződj meg róla, hogy **elmentetted a privát
 MYWAL_Content_3             : 'Ha használni akarod ezt a tárcát a MyEtherWallet CX-szel a jövőben, manuálisan újra hozzá kell majd adnod a privát kulcs/JSON-nal és jelszóval. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'Ez lehetővé teszi számodra, hogy különböző változatú privát kulcsokat tölts le és újranyomtasd a papírtárcádat.  Ezt megteheted úgy, hogy [importálod a számládat a Geth/Mist-be](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Ha ellenőrizni akarod a számládat, azt ajánljuk, hogy használj blokklánc explorert mint az [etherscan.io](https://etherscan.io/). ',
+VIEWWALLET_Subtitle         : 'Ez lehetővé teszi számodra, hogy különböző változatú privát kulcsokat tölts le és újranyomtasd a papírtárcádat.  Ezt megteheted úgy, hogy [importálod a számládat a Geth/Mist-be](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Ha ellenőrizni akarod a számládat, azt ajánljuk, hogy használj blokklánc explorert mint az [explorer.egem.io](https://explorer.egem.io/). ',
 VIEWWALLET_Subtitle_Short   : 'Ez lehetővé teszi számodra, hogy különböző változatú privát kulcsokat tölts le és újranyomtasd a papírtárcádat. ',
 VIEWWALLET_SuccessMsg       : 'Sikerült! Itt vannak a tárcád részletei. ',
 VIEWWALLET_ShowPrivKey      : '(show)',
@@ -741,7 +741,7 @@ HELP_5CX_Desc_7             : 'Keresd meg az előző lépésekben letöltött é
 HELP_5CX_Desc_8             : 'A bővítmény meg kell jelenjen a többi bővítmény közt és a Chrome menüben. ',
 
 HELP_7_Title                : '7) How do I send Tokens & add custom tokens? ',
-HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) is a great way to explore tokens and find the decimals of a token. ',
+HELP_7_Desc_0               : 'Explorer.egem.io(https://explorer.egem.io/) is a great way to explore tokens and find the decimals of a token. ',
 HELP_7_Desc_1               : 'Navigate to the "Ether & Tokenek küldése" page. ',
 HELP_7_Desc_2               : 'Unlock your wallet. ',
 HELP_7_Desc_3               : 'Enter the address you would like to send to in the "To Address:" field. ',
@@ -829,7 +829,7 @@ HELP_16_Title               : '16) How do I check the balance of my account? ',
 
 HELP_16_Desc_1              : 'You can use a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on explorer.egem.io ',
 
-HELP_16_Desc_1              : 'You can use a blockchain explorer like [etherscan.io](https://etherscan.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on etherscan.io ',
+HELP_16_Desc_1              : 'You can use a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on etherscan.io ',
 
 
 HELP_17_Title               : '17) Why isn\'t my balance showing up when I unlock my wallet? ',

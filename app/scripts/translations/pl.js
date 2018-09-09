@@ -480,7 +480,7 @@ MYWAL_Content_2             : 'Upewnij się, że **zapisałeś klucz prywatny/pl
 MYWAL_Content_3             : 'Jeśli będziesz chciał w przyszłości używać ten portfel ze swoim MyEtherWallet CX, będziesz musiał go ponownie dodać używając klucza prywatnego/pliku JSON i hasła. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'Ta zakładka pozwoli Ci na odczyt kluczy prywatnych, pobranie kopii portfeli oraz wydrukowanie portfeli papierowych. Pobrane za jej pomocą portfele możesz [zaimportować do Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Jeśli chcesz sprawdzić stan Twojego konta, zalecamy użyć eksploratora bloków np. [etherscan.io](https://etherscan.io/). ',
+VIEWWALLET_Subtitle         : 'Ta zakładka pozwoli Ci na odczyt kluczy prywatnych, pobranie kopii portfeli oraz wydrukowanie portfeli papierowych. Pobrane za jej pomocą portfele możesz [zaimportować do Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Jeśli chcesz sprawdzić stan Twojego konta, zalecamy użyć eksploratora bloków np. [explorer.egem.io](https://explorer.egem.io/). ',
 VIEWWALLET_Subtitle_Short   : 'Ta zakładka pozwala Ci na pobranie różnych typów kluczy prywatnych oraz ponowne wydrukowanie portfeli papierowych. ',
 VIEWWALLET_SuccessMsg       : 'Sukces! Oto dane twojego portfela. ',
 VIEWWALLET_ShowPrivKey      : '(show)',
@@ -745,7 +745,7 @@ HELP_5CX_Desc_7             : 'Nawiguj do rozpakowanego folderu, który ściągn
 HELP_5CX_Desc_8             : 'Rozszerzenie powinno się pojawić na liście i w pasku rozszerzeń przeglądarki Chrome. ',
 
 HELP_7_Title                : '7) Jak się wysyła Tokeny i jak tworzyć własne Tokeny? ',
-HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) jest świetnym miejscem na przeglądanie tokenów oraz sprawdzenia ich ilości miejsc po przecinku. ',
+HELP_7_Desc_0               : 'Explorer.egem.io(https://explorer.egem.io/) jest świetnym miejscem na przeglądanie tokenów oraz sprawdzenia ich ilości miejsc po przecinku. ',
 HELP_7_Desc_1               : 'Przejdź na zakładkę "Wyślij Ether i Tokeny". ',
 HELP_7_Desc_2               : 'Odblokuj portfel. ',
 HELP_7_Desc_3               : 'Wpisz adres, na który chcesz je przesłać w pole "Do Adresu:". ',
@@ -833,7 +833,7 @@ HELP_16_Title               : '16) Jak sprawdzić stan mojego konta? ',
 
 HELP_16_Desc_1              : 'Możesz użyć eksploratora bloków jak [explorer.egem.io](https://explorer.egem.io/). Wklej swój adres w wyszukiwarkę na stronie eksploratora, pokaże ona stan Twojego konta oraz historię transakcji. Tak na przykład wygląda nasze [konto donacji](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) na explorer.egem.io. ',
 
-HELP_16_Desc_1              : 'Możesz użyć eksploratora bloków jak [etherscan.io](https://etherscan.io/). Wklej swój adres w wyszukiwarkę na stronie eksploratora, pokaże ona stan Twojego konta oraz historię transakcji. Tak na przykład wygląda nasze [konto donacji](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) na etherscan.io. ',
+HELP_16_Desc_1              : 'Możesz użyć eksploratora bloków jak [explorer.egem.io](https://explorer.egem.io/). Wklej swój adres w wyszukiwarkę na stronie eksploratora, pokaże ona stan Twojego konta oraz historię transakcji. Tak na przykład wygląda nasze [konto donacji](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) na etherscan.io. ',
 
 
 HELP_17_Title               : '17) Dlaczeg stan mojego konta nie pojawia się, kiedy odblokowuje mój portfel? ',

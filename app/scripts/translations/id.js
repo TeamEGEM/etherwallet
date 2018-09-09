@@ -509,7 +509,7 @@ MYWAL_Content_2             : 'Pastkan Anda telah **menyimpan Kunci Privat dan/a
 MYWAL_Content_3             : 'Jika Anda akan memakai dompet ini dengan MyEtherWallet CX Anda ke depan, Kunci Privat/JSON dan password harus ditambahkan lagi secara manual. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'Memungkinkan Anda untuk mencetak Dompet Kertas dari berbagai format atau versi Kunci Privat. Hal ini diperlukan pada saat anda ingin [mengimpor akun Anda ke Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Jika Anda hanya ingin pengecekan saldo, pakailah salah satu layanan blockchain explorer seperti [etherscan.io](https://etherscan.io/). ',
+VIEWWALLET_Subtitle         : 'Memungkinkan Anda untuk mencetak Dompet Kertas dari berbagai format atau versi Kunci Privat. Hal ini diperlukan pada saat anda ingin [mengimpor akun Anda ke Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Jika Anda hanya ingin pengecekan saldo, pakailah salah satu layanan blockchain explorer seperti [explorer.egem.io](https://explorer.egem.io/). ',
 VIEWWALLET_Subtitle_Short   : 'Untuk pencetakan Dompet Kertas dari berbagai format Kunci Privat. ',
 VIEWWALLET_SuccessMsg       : 'Berhasil! Berikut detil dari dompet Anda. ',
 VIEWWALLET_ShowPrivKey      : '(show)',
@@ -745,7 +745,7 @@ HELP_5CX_Desc_7             : 'Buka folder yang baru saja di unzip. Klik "select
 HELP_5CX_Desc_8             : 'Ekstensi tersebut sekarang akan muncul di bagian ekstensi dan di bilah Chrome Extension. ',
 
 HELP_7_Title                : '7) Bagaimana cara mengirim Token & menambahkan token custom? ',
-HELP_7_Desc_0               : 'Kunjungi Erc20.egem.io(http://erc20.egem.io/) untuk mendapatkan informasi terkait token dan token desimal. ',
+HELP_7_Desc_0               : 'Kunjungi Explorer.egem.io(https://explorer.egem.io/) untuk mendapatkan informasi terkait token dan token desimal. ',
 HELP_7_Desc_1               : 'Buka halaman "Kirim Token". ',
 HELP_7_Desc_2               : 'Buka dompet Anda. ',
 HELP_7_Desc_3               : 'Masukkan alamat tujuan yang ingin Anda kirimi ke kolom "Alamat tujuan:". ',
@@ -833,7 +833,7 @@ HELP_16_Title               : '16) Bagaimana cara memeriksa saldo akun saya? ',
 
 HELP_16_Desc_1              : 'Anda bisa menggunakan eksplorer blockchain seperti [explorer.egem.io](https://explorer.egem.io/). Paste alamat Anda ke dalam search bar dan riwayat transaksi Anda akan ditampilkan. Contohnya, [akun donasi kami](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) dilihat di explorer.egem.io ',
 
-HELP_16_Desc_1              : 'Anda bisa menggunakan eksplorer blockchain seperti [etherscan.io](https://etherscan.io/). Paste alamat Anda ke dalam search bar dan riwayat transaksi Anda akan ditampilkan. Contohnya, [akun donasi kami](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) dilihat di etherscan.io ',
+HELP_16_Desc_1              : 'Anda bisa menggunakan eksplorer blockchain seperti [explorer.egem.io](https://explorer.egem.io/). Paste alamat Anda ke dalam search bar dan riwayat transaksi Anda akan ditampilkan. Contohnya, [akun donasi kami](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) dilihat di etherscan.io ',
 
 
 HELP_17_Title               : '17) Mengapa saldo saya tidak muncul saat saya membuka dompet saya? ',

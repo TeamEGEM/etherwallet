@@ -744,7 +744,7 @@ HELP_5CX_Desc_7             : 'Đưa chuột và chọn vào tập tin mà bạn
 HELP_5CX_Desc_8             : 'Ứng dụng mở rộng không nên cho xuất hiện tại mục mở rộng và thanh ứng dụng mở rộng tại Google Chrome. ',
 
 HELP_7_Title                : '7) Làm thế nào dễ gửi token và thêm Token vào Ví? ',
-HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) là cách tốt nhất dễ kiễm tra Token và số Token. ',
+HELP_7_Desc_0               : 'Explorer.egem.io(https://explorer.egem.io/) là cách tốt nhất dễ kiễm tra Token và số Token. ',
 HELP_7_Desc_1               : 'Đi đến trang "Gửi Ether và Tokens". ',
 HELP_7_Desc_2               : 'mở khoá Ví của bạn. ',
 HELP_7_Desc_3               : 'Điền địa chỉ mà bạn cần gửi đến tại ô trống "Địa chỉ đến:" . ',
@@ -832,7 +832,7 @@ HELP_16_Title               : '16) Làm thế nào dễ kiễm tra số dư hi�
 
 HELP_16_Desc_1              : 'Bạn có thể sử dụng Blockchain Explorer dễ kiễm tra, Ví dụ: [explorer.egem.io](https://explorer.egem.io/). Dán địa chỉ của bạn vào khung tìm kiếm và nó sẽ hiển thị tài khoản của bạn và toạn bộ lịch sữ giao dịch đã thực hiện đối với địa chỉ này. Ví Dụ: Đây là địa chỉ của chúng tôi [donation account](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) được trông thấy trên explorer.egem.io ',
 
-HELP_16_Desc_1              : 'Bạn có thể sử dụng Blockchain Explorer dễ kiễm tra, Ví dụ: [etherscan.io](https://etherscan.io/). Dán địa chỉ của bạn vào khung tìm kiếm và nó sẽ hiển thị tài khoản của bạn và toạn bộ lịch sữ giao dịch đã thực hiện đối với địa chỉ này. Ví Dụ: Đây là địa chỉ của chúng tôi [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) được trông thấy trên etherscan.io ',
+HELP_16_Desc_1              : 'Bạn có thể sử dụng Blockchain Explorer dễ kiễm tra, Ví dụ: [explorer.egem.io](https://explorer.egem.io/). Dán địa chỉ của bạn vào khung tìm kiếm và nó sẽ hiển thị tài khoản của bạn và toạn bộ lịch sữ giao dịch đã thực hiện đối với địa chỉ này. Ví Dụ: Đây là địa chỉ của chúng tôi [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) được trông thấy trên etherscan.io ',
 
 
 HELP_17_Title               : '17) Tại sao số dư tài khoản của tôi không hiển thị khi tôi truy cập vào tài khoản? ',

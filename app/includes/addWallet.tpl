@@ -610,7 +610,7 @@
                      target="_blank"
                      rel="noopener noreferrer"
                      title="https://explorer.egem.io/addr/{{wallet.getAddressString()}}">
-                  <img src="images/icon-external-link.svg" title="http://erc20.egem.io/addr/{{wallet.getAddressString()}}" ng-click="removeTokenFromLocal(token.symbol)" ng-show="token.type!=='default'" />
+                  <img src="images/icon-external-link.svg" title="https://explorer.egem.io/addr/{{wallet.getAddressString()}}" ng-click="removeTokenFromLocal(token.symbol)" ng-show="token.type!=='default'" />
                 </a>
               </td>
 

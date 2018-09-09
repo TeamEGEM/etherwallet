@@ -759,7 +759,7 @@ HELP_5CX_Desc_7             : '조금 전 다운로드해서 압축을 푼 폴�
 HELP_5CX_Desc_8             : '여기까지 하셨다면 마이이더월렛은 당신의 Chrome 확장 프로그램 창에 나타나서 Chrome 확장 프로그램 바에 생기게 됩니다. ',
 
 HELP_7_Title                : '7) 어떻게 하면 토큰을 전송하고 사용자 정의 토큰을 추가할 수 있나요? ',
-HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/)에서 토큰을 탐색하여 토큰의 decimals를 찾을 수 있습니다. ',
+HELP_7_Desc_0               : 'Explorer.egem.io(https://explorer.egem.io/)에서 토큰을 탐색하여 토큰의 decimals를 찾을 수 있습니다. ',
 HELP_7_Desc_1               : '이더리움 & 토큰 전송 페이지로 이동합니다. ',
 HELP_7_Desc_2               : '지갑을 잠금 해제 합니다. ',
 HELP_7_Desc_3               : '보낼 주소 입력란에 전송하고 싶은 주소를 입력합니다. ',

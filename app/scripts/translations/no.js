@@ -551,7 +551,7 @@ MYWAL_Content_2             : 'Vær sikker på at du har **lagret den private n�
 MYWAL_Content_3             : 'Hvis du ønsker å bruke denne lommeboken med din MyEtherWallet Chrome-utvidelse i fremtiden, må du manuelt legge den til igjen ved å bruke den private nøkkelen/JSON og passord. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'Dette gir deg muligheten til å laste ned ulike versjoner av private nøkler og skrive ut papirlommeboken din på nytt. Du vil kanskje gjøre dette for å [importere kontoen din til Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Hvis du bare ønsker å sjekke saldoen din, anbefaler vi at du bruker en "blockchain explorer" som f.eks. [etherscan.io](https://etherscan.io/). ',
+VIEWWALLET_Subtitle         : 'Dette gir deg muligheten til å laste ned ulike versjoner av private nøkler og skrive ut papirlommeboken din på nytt. Du vil kanskje gjøre dette for å [importere kontoen din til Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Hvis du bare ønsker å sjekke saldoen din, anbefaler vi at du bruker en "blockchain explorer" som f.eks. [explorer.egem.io](https://explorer.egem.io/). ',
 VIEWWALLET_Subtitle_Short   : 'Dette gir deg muligheten til å laste ned ulike versjoner av private nøkler og skrive ut papirlommeboken din på nytt. ',
 VIEWWALLET_SuccessMsg       : 'Suksess! Her er detaljene om din lommebok. ',
 VIEWWALLET_ShowPrivKey      : '(show)',
@@ -744,7 +744,7 @@ HELP_5CX_Desc_7             : 'Naviger til den nå utpakkede mappen som du laste
 HELP_5CX_Desc_8             : 'Utvidelsen skal nå dukke opp blant utvidelsene dine og i utvidelses-knappelinjen øverst til høyre i nettleseren. ',
 
 HELP_7_Title                : '7) Hvordan sender jeg token & legger til flere typer token? ',
-HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) er en flott måte å utforske token på, og for å finne informasjon om antall desimaler for en token. ',
+HELP_7_Desc_0               : 'Explorer.egem.io(https://explorer.egem.io/) er en flott måte å utforske token på, og for å finne informasjon om antall desimaler for en token. ',
 HELP_7_Desc_1               : 'Naviger til "Send Ether & Tokens"-siden. ',
 HELP_7_Desc_2               : 'Lås opp lommeboken din. ',
 HELP_7_Desc_3               : 'Oppgi adressen som du vil sende til i "Til adresse:"-feltet. ',
@@ -832,7 +832,7 @@ HELP_16_Title               : '16) Hvordan kan jeg sjekke saldoen på kontoen mi
 
 HELP_16_Desc_1              : 'Du kan bruke en blokkjede-utforsker som [explorer.egem.io](https://explorer.egem.io/). Lim inn adressen i søkefeltet og den vil finne fram adressen og transaksjonshistorikken. For eksempel, her ser du hvordan vår [donasjonskonto](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) ser ut på explorer.egem.io ',
 
-HELP_16_Desc_1              : 'Du kan bruke en blokkjede-utforsker som [etherscan.io](https://etherscan.io/). Lim inn adressen i søkefeltet og den vil finne fram adressen og transaksjonshistorikken. For eksempel, her ser du hvordan vår [donasjonskonto](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) ser ut på etherscan.io ',
+HELP_16_Desc_1              : 'Du kan bruke en blokkjede-utforsker som [explorer.egem.io](https://explorer.egem.io/). Lim inn adressen i søkefeltet og den vil finne fram adressen og transaksjonshistorikken. For eksempel, her ser du hvordan vår [donasjonskonto](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) ser ut på etherscan.io ',
 
 
 HELP_17_Title               : '17) Hvorfor vises ikke saldoen min når jeg låser opp lommeboken min? ',

@@ -476,7 +476,7 @@ MYWAL_Content_2             : 'Assurez-vous d\'avoir bien **sauvegardé la clé 
 MYWAL_Content_3             : 'Si vous voulez utiliser ce portefeuille avec MyEtherWallet CX à l\'avenir, vous devrez le rajouter manuellement en utilisant la clé privée / fichier JSON et le mot de passe.',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'Ceci vous permet de télécharger plusieurs versions des clefs privées et d\'imprimer votre portefeuille papier. Vous devrez le faire pour [importer votre compte dans Geth / Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Si vous voulez seulement consulter votre solde, nous recommandons d\'utiliser un explorateur de blockchain comme [etherscan.io](https://etherscan.io/).',
+VIEWWALLET_Subtitle         : 'Ceci vous permet de télécharger plusieurs versions des clefs privées et d\'imprimer votre portefeuille papier. Vous devrez le faire pour [importer votre compte dans Geth / Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Si vous voulez seulement consulter votre solde, nous recommandons d\'utiliser un explorateur de blockchain comme [explorer.egem.io](https://explorer.egem.io/).',
 VIEWWALLET_Subtitle_Short   : 'Ceci vous permet de télécharger plusieurs versions des clefs privées et d\'imprimer votre portefeuille papier.',
 VIEWWALLET_SuccessMsg       : 'Réussi ! Voici les détails de votre portefeuille :',
 VIEWWALLET_ShowPrivKey      : '(montrer)',
@@ -747,7 +747,7 @@ HELP_5CX_Desc_7             : 'Naviguez vers le dossier que vous avez téléchar
 HELP_5CX_Desc_8             : 'L\'extension doit maintenant apparaître parmi vos extensions et dans la barre d\'extensions de Chrome.',
 
 HELP_7_Title                : '7) Comment puis-je envoyer des tokens et ajouter des tokens spécifiques ?',
-HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) est un excellent moyen d\'explorer les tokens et d\'en trouver les informations comme le nombre de décimales.',
+HELP_7_Desc_0               : 'Explorer.egem.io(https://explorer.egem.io/) est un excellent moyen d\'explorer les tokens et d\'en trouver les informations comme le nombre de décimales.',
 HELP_7_Desc_1               : 'Naviguez vers la page "Envoi de tokens".',
 HELP_7_Desc_2               : 'Déverrouillez votre portefeuille.',
 HELP_7_Desc_3               : 'Entre l\'adresse à laquelle vous désirez envoyer des tokens dans le champ "Adresse de destination".',
@@ -833,7 +833,7 @@ HELP_16_Title               : '16) Comment puis-je vérifier le solde de mon com
 
 HELP_16_Desc_1              : 'Vous pouvez utiliser un explorateur de blockchain comme [explorer.egem.io](https://explorer.egem.io/). Collez votre adresse dans la barre de recherche et cela récupérera votre solde et l\'historique de vos transactions. Par exemple, voici ce que montre notre [compte de donations](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) sur explorer.egem.io',
 
-HELP_16_Desc_1              : 'Vous pouvez utiliser un explorateur de blockchain comme [etherscan.io](https://etherscan.io/). Collez votre adresse dans la barre de recherche et cela récupérera votre solde et l\'historique de vos transactions. Par exemple, voici ce que montre notre [compte de donations](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) sur etherscan.io',
+HELP_16_Desc_1              : 'Vous pouvez utiliser un explorateur de blockchain comme [explorer.egem.io](https://explorer.egem.io/). Collez votre adresse dans la barre de recherche et cela récupérera votre solde et l\'historique de vos transactions. Par exemple, voici ce que montre notre [compte de donations](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) sur etherscan.io',
 
 
 HELP_17_Title               : '17) Pourquoi mon solde n\'apparaît-il pas quand je déverrouille mon portefeuille ?',

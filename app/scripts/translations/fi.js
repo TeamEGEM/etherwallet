@@ -476,7 +476,7 @@ MYWAL_Content_2             : 'Varmista että olet **tallentanut tähän lompakk
 MYWAL_Content_3             : 'Jos tahdot käyttää tätä lompakkoa MyEtherWallet CX:si kanssa tulevaisuudessa, sinun täytyy manuaalisesti uudelleen-lisätä se käyttäen yksityistä salausavaintasi/JSONia ja salasanaa. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'Tämä antaa sinun ladata eri versiota yksityisistä salausavaimistasi ja uudelleen-tulostaa paperi lompakkosi. Saatat tahtoa tehdä tämän [tuodaksesi sinun tilisi Gethiin/Mistiin](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Jos haluat tarkistaa saldosi, me suosittelemme käyttämään blockchain exploreria kuten [etherscan.io](https://etherscan.io/). ',
+VIEWWALLET_Subtitle         : 'Tämä antaa sinun ladata eri versiota yksityisistä salausavaimistasi ja uudelleen-tulostaa paperi lompakkosi. Saatat tahtoa tehdä tämän [tuodaksesi sinun tilisi Gethiin/Mistiin](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Jos haluat tarkistaa saldosi, me suosittelemme käyttämään blockchain exploreria kuten [explorer.egem.io](https://explorer.egem.io/). ',
 VIEWWALLET_Subtitle_Short   : 'Tämä antaa sinun ladata eri versiota yksityisistä salausavaimistasi ja uudelleen-tulostaa paperi lompakkosi. ',
 VIEWWALLET_SuccessMsg       : 'Onnistui! Tässä ovat lompakkosi yksityiskohdat. ',
 VIEWWALLET_ShowPrivKey      : '(show)',
@@ -761,7 +761,7 @@ HELP_5CX_Desc_7             : 'Navigate to the now-unzipped folder that you down
 HELP_5CX_Desc_8             : 'The extension should now show up in your extensions and in your Chrome Extension bar. ',
 
 HELP_7_Title                : '7) How do I send Tokens & add custom tokens? ',
-HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) is a great way to explore tokens and find the decimals of a token. ',
+HELP_7_Desc_0               : 'Explorer.egem.io(https://explorer.egem.io/) is a great way to explore tokens and find the decimals of a token. ',
 HELP_7_Desc_1               : 'Navigate to the "Lähetä Etheriä ja Tokeneita" page. ',
 HELP_7_Desc_2               : 'Unlock your wallet. ',
 HELP_7_Desc_3               : 'Enter the address you would like to send to in the "To Address:" field. ',
@@ -849,7 +849,7 @@ HELP_16_Title               : '16) How do I check the balance of my account? ',
 
 HELP_16_Desc_1              : 'You can use a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on explorer.egem.io ',
 
-HELP_16_Desc_1              : 'You can use a blockchain explorer like [etherscan.io](https://etherscan.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on etherscan.io ',
+HELP_16_Desc_1              : 'You can use a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on etherscan.io ',
 
 
 HELP_17_Title               : '17) Why isn\'t my balance showing up when I unlock my wallet? ',
