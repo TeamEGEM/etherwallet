@@ -546,7 +546,7 @@ MSG_info2                   : '타인이 사용하지 못하도록 별명을 포
 MSG_info3                   : '다른 용도로 사용되는 것을 막으려면 세부적인 내용을 메시지에 포함해주세요. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : '다른 버전의 개인 키를 다운로드하거나 종이 지갑 정보를 다시 인쇄할 수 있습니다. [계정을 Geth/Mist로 가져오기](https://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/)를 진행할 때 필요합니다. 잔액을 확인하려면 [explorer.egem.io](https://explorer.egem.io/)과 같은 블록체인 조회 서비스를 사용하는 것을 권장합니다. ',
+VIEWWALLET_Subtitle         : '다른 버전의 개인 키를 다운로드하거나 종이 지갑 정보를 다시 인쇄할 수 있습니다. [계정을 Geth/Mist로 가져오기](https://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/)를 진행할 때 필요합니다. 잔액을 확인하려면 [etherscan.io](https://etherscan.io/)과 같은 블록체인 조회 서비스를 사용하는 것을 권장합니다. ',
 VIEWWALLET_Subtitle_Short   : '다른 버전의 개인 키를 다운로드하거나 종이 지갑 정보를 다시 인쇄할 수 있습니다. ',
 VIEWWALLET_SuccessMsg       : '성공했습니다! 지갑의 세부사항은 다음과 같습니다. ',
 VIEWWALLET_ShowPrivKey      : '(보기) ',
@@ -843,7 +843,11 @@ HELP_15_Title               : '15) 방금 만든 계정이 블록체인 탐색�
 HELP_15_Desc_1              : '계정은 거래 활동이 있을 경우에만 블록체인 탐색기에 표시됩니다. 예를 들어, 이더리움을 계정으로 이동시키면 계정이 활성화됩니다. ',
 
 HELP_16_Title               : '16) 내 계정의 잔액을 어떻게 확인하나요? ',
+<<<<<<< HEAD
 HELP_16_Desc_1              : '[explorer.egem.io](https://explorer.egem.io/)와 같은 블록체인 탐색기를 사용할 수 있습니다. 주소를 검색 창에 붙여넣으면 주소와 거래 내역이 표시됩니다. 예를 들어, 저희의 [기부 계정](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D)과 같은 식으로 보입니다. ',
+=======
+HELP_16_Desc_1              : '[etherscan.io](https://etherscan.io/)와 같은 블록체인 탐색기를 사용할 수 있습니다. 주소를 검색 창에 붙여넣으면 주소와 거래 내역이 표시됩니다. 예를 들어, 저희의 [기부 계정](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D)과 같은 식으로 보입니다. ',
+>>>>>>> parent of 63baceb6... more rebranding
 
 HELP_17_Title               : '17) 내 지갑에서 잔액이 표시되지 않는 이유는 뭔가요? ',
 HELP_17_Desc_1              : '그 이유는 방화벽 때문입니다. 우리가 잔액 정보를 얻고 잔액 정보를 변환하는 데 사용하는 API는 어떤 이유로 든 방화벽에 의해 차단되는 경우가 많습니다. 사용자는 계속해서 트랜잭션을 보낼 수 있습니다. 당신은 단지 잔액을 확인하기 위해 explorer.egem.io 블록체인 탐색 사이트와 같은 다른 방법을 사용해야 될 수 있습니다. ',
