@@ -138,7 +138,7 @@ ONBOARD_blockchain_content__1   :  'The blockchain is like a huge, global, decen
 ONBOARD_blockchain_content__2   :  'It keeps track of who sent how many coins to whom, and what the balance of every account is.',
 ONBOARD_blockchain_content__3   :  'It is stored and maintained by thousands of people (miners) across the globe who have special computers.',
 ONBOARD_blockchain_content__4   :  'The blocks in the blockchain are made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.',
-ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
+ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [explorer.egem.io](https://explorer.egem.io), you are seeing data on the blockchain, not in our personal systems.',
 ONBOARD_blockchain_content__6   :  'Again: **we are not a bank**.',
 ONBOARD_interface_title__alt    :  'MEW is an Interface',
 ONBOARD_why_title__alt          :  'But...why does this matter?',
@@ -744,7 +744,7 @@ HELP_5CX_Desc_7             : 'Naviger til den nå utpakkede mappen som du laste
 HELP_5CX_Desc_8             : 'Utvidelsen skal nå dukke opp blant utvidelsene dine og i utvidelses-knappelinjen øverst til høyre i nettleseren. ',
 
 HELP_7_Title                : '7) Hvordan sender jeg token & legger til flere typer token? ',
-HELP_7_Desc_0               : '[Ethplorer.io](https://ethplorer.io/) er en flott måte å utforske token på, og for å finne informasjon om antall desimaler for en token. ',
+HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) er en flott måte å utforske token på, og for å finne informasjon om antall desimaler for en token. ',
 HELP_7_Desc_1               : 'Naviger til "Send Ether & Tokens"-siden. ',
 HELP_7_Desc_2               : 'Lås opp lommeboken din. ',
 HELP_7_Desc_3               : 'Oppgi adressen som du vil sende til i "Til adresse:"-feltet. ',
@@ -829,10 +829,10 @@ HELP_15_Title               : '15) Hvorfor har ikke kontoen jeg nettopp opprette
 HELP_15_Desc_1              : 'Kontoer vil kun dukke opp i en blokkjede-utforsker når kontoen har hatt aktivitet&mdash;for eksempel, når du har overført Ether til den. ',
 
 HELP_16_Title               : '16) Hvordan kan jeg sjekke saldoen på kontoen min? ',
-HELP_16_Desc_1              : 'Du kan bruke en blokkjede-utforsker som [explorer.egem.io](https://explorer.egem.io/). Lim inn adressen i søkefeltet og den vil finne fram adressen og transaksjonshistorikken. For eksempel, her ser du hvordan vår [donasjonskonto](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) ser ut på etherscan.io ',
+HELP_16_Desc_1              : 'Du kan bruke en blokkjede-utforsker som [explorer.egem.io](https://explorer.egem.io/). Lim inn adressen i søkefeltet og den vil finne fram adressen og transaksjonshistorikken. For eksempel, her ser du hvordan vår [donasjonskonto](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) ser ut på explorer.egem.io ',
 
 HELP_17_Title               : '17) Hvorfor vises ikke saldoen min når jeg låser opp lommeboken min? ',
-HELP_17_Desc_1              : 'Dette er mest sannsynlig fordi du er bak en brannmur. API-en vi bruker for å innhente saldoen blokkeres ofte av brannmurer av ymse årsaker. Du vil fortsatt være i stand til å sende transaksjoner, du må bare bruke en annen metode for å se nevnte saldo, som etherscan.io ',
+HELP_17_Desc_1              : 'Dette er mest sannsynlig fordi du er bak en brannmur. API-en vi bruker for å innhente saldoen blokkeres ofte av brannmurer av ymse årsaker. Du vil fortsatt være i stand til å sende transaksjoner, du må bare bruke en annen metode for å se nevnte saldo, som explorer.egem.io ',
 
 HELP_18_Title               : '18) Hvor er min geth lommebok-fil ',
 

@@ -138,7 +138,7 @@ ONBOARD_blockchain_content__1   :  '区块链有点像是一个巨大的, 全球
 ONBOARD_blockchain_content__2   :  '它用来记录一个人给另一个人发送了多少货币, 以及跟踪所有账户的余额.',
 ONBOARD_blockchain_content__3   :  '它是由全球成千上万拥有特殊计算机的人(我们也叫他们矿工)来进行记录和维护的.',
 ONBOARD_blockchain_content__4   :  '区块链中的区块是由许多笔交易记录组成的, 这些交易从与跟MEW类似的操作接口发送出来, 比如MetaMask, Exodus, Mist, Geth, Parity等.',
-ONBOARD_blockchain_content__5   :  '当你使用 MyEtherWallet.com 查看余额, 或者使用 [etherscan.io](https://etherscan.io)查看交易详细信息时, 这些显示的信息都是直接来自区块链网络, 而不是来自MEW的独立系统.',
+ONBOARD_blockchain_content__5   :  '当你使用 MyEtherWallet.com 查看余额, 或者使用 [explorer.egem.io](https://explorer.egem.io)查看交易详细信息时, 这些显示的信息都是直接来自区块链网络, 而不是来自MEW的独立系统.',
 ONBOARD_blockchain_content__6   :  '再次申明: **MyEtherWallet不是银行**.',
 ONBOARD_interface_title__alt    :  'MEW 只是操作接口',
 ONBOARD_why_title__alt          :  '但是为啥呢?',
@@ -750,7 +750,7 @@ HELP_5CX_Desc_7             : 'Navigate to the now-unzipped folder that you down
 HELP_5CX_Desc_8             : 'The extension should now show up in your extensions and in your Chrome Extension bar. ',
 
 HELP_7_Title                : '7) How do I send Tokens & add custom tokens? ',
-HELP_7_Desc_0               : '[Ethplorer.io](https://ethplorer.io/) is a great way to explore tokens and find the decimals of a token. ',
+HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) is a great way to explore tokens and find the decimals of a token. ',
 HELP_7_Desc_1               : 'Navigate to the "发送以太币 / 发送代币" page. ',
 HELP_7_Desc_2               : 'Unlock your wallet. ',
 HELP_7_Desc_3               : 'Enter the address you would like to send to in the "To Address:" field. ',
@@ -835,10 +835,10 @@ HELP_15_Title               : '15) Why hasn\'t the account I just created show u
 HELP_15_Desc_1              : 'Accounts will only show up in a blockchain explorer once the account has activity on it&mdash;for example, once you have transferred some Ether to it. ',
 
 HELP_16_Title               : '16) How do I check the balance of my account? ',
-HELP_16_Desc_1              : 'You can use a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on etherscan.io ',
+HELP_16_Desc_1              : 'You can use a blockchain explorer like [explorer.egem.io](https://explorer.egem.io/). Paste your address into the search bar and it will pull up your address and transaction history. For example, here\'s what our [donation account](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) looks like on explorer.egem.io ',
 
 HELP_17_Title               : '17) Why isn\'t my balance showing up when I unlock my wallet? ',
-HELP_17_Desc_1              : 'This is most likely due to the fact that you are behind a firewall. The API that we use to get the balance and convert said balance is often blocked by firewalls for whatever reason. You will still be able to send transactions, you just need to use a different method to see said balance, like etherscan.io ',
+HELP_17_Desc_1              : 'This is most likely due to the fact that you are behind a firewall. The API that we use to get the balance and convert said balance is often blocked by firewalls for whatever reason. You will still be able to send transactions, you just need to use a different method to see said balance, like explorer.egem.io ',
 
 HELP_18_Title               : '18) Where is my geth wallet file? ',
 

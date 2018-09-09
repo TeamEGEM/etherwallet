@@ -139,7 +139,7 @@ ONBOARD_blockchain_content__1   :  'The blockchain is like a huge, global, decen
 ONBOARD_blockchain_content__2   :  'It keeps track of who sent how many coins to whom, and what the balance of every account is.',
 ONBOARD_blockchain_content__3   :  'It is stored and maintained by thousands of people (miners) across the globe who have special computers.',
 ONBOARD_blockchain_content__4   :  'The blocks in the blockchain are made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.',
-ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
+ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [explorer.egem.io](https://explorer.egem.io), you are seeing data on the blockchain, not in our personal systems.',
 ONBOARD_blockchain_content__6   :  'Again: **we are not a bank**.',
 ONBOARD_interface_title__alt    :  'MEW is an Interface',
 ONBOARD_why_title__alt          :  'But...why does this matter?',
@@ -731,7 +731,7 @@ HELP_5CX_Desc_7             : 'Vai alla cartella che hai precedentemente scarica
 HELP_5CX_Desc_8             : 'L\'estensione dovrebbe ora comparire fra le tue estensioni e nella barra delle estensioni di Chrome. ',
 
 HELP_7_Title                : '7) Come invio token e come aggiungo token personalizzati? ',
-HELP_7_Desc_0               : '[Ethplorer.io](https://ethplorer.io/) è un ottimo modo di esplorare i token e trovarne i decimali. ',
+HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) è un ottimo modo di esplorare i token e trovarne i decimali. ',
 HELP_7_Desc_1               : 'Vai alla pagina "Invia ether e token". ',
 HELP_7_Desc_2               : 'Sblocca il portafoglio. ',
 HELP_7_Desc_3               : 'Inserisci l\'indirizzo al quale vuoi inviare nel campo "Indirizzo destinatario:". ',
@@ -816,10 +816,10 @@ HELP_15_Title               : '15) Perché il conto che ho appena creato non ris
 HELP_15_Desc_1              : 'I conti vengono mostrati in quegli strumenti solamente dopo che c\'è stata un\'attività sul conto in questione&mdash;ad esempio, dopo che ci hai trasferito degli ether. ',
 
 HELP_16_Title               : '16) Come faccio a controllare il saldo del mio conto? ',
-HELP_16_Desc_1              : 'Puoi usare uno strumento per l\'esplorazione della *blockchain* come [explorer.egem.io](https://explorer.egem.io/). Incolla il tuo indirizzo nella barra di ricerca e vedrai il tuo indirizzo e lo storico delle transazioni. Ad esempio, questo è come si presenta il nostro [conto donazioni](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) su etherscan.io ',
+HELP_16_Desc_1              : 'Puoi usare uno strumento per l\'esplorazione della *blockchain* come [explorer.egem.io](https://explorer.egem.io/). Incolla il tuo indirizzo nella barra di ricerca e vedrai il tuo indirizzo e lo storico delle transazioni. Ad esempio, questo è come si presenta il nostro [conto donazioni](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) su explorer.egem.io ',
 
 HELP_17_Title               : '17) Perché non viene mostrato il saldo quando sblocco il mio portafoglio? ',
-HELP_17_Desc_1              : 'Probabilmente perché sei dietro a un firewall. Le API che utilizziamo per ottenere il saldo e convertirlo sono spesso bloccate dai firewall per qualche ragione. Sarai ancora in grado di inviare transazioni, dovrai solo usare un metodo diverso per vedere il tuo saldo, come etherscan.io ',
+HELP_17_Desc_1              : 'Probabilmente perché sei dietro a un firewall. Le API che utilizziamo per ottenere il saldo e convertirlo sono spesso bloccate dai firewall per qualche ragione. Sarai ancora in grado di inviare transazioni, dovrai solo usare un metodo diverso per vedere il tuo saldo, come explorer.egem.io ',
 
 HELP_18_Title               : '18) Dov\'è il mio file portafoglio di geth? ',
 

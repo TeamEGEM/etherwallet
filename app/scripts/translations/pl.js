@@ -138,7 +138,7 @@ ONBOARD_blockchain_content__1   :  'The blockchain is like a huge, global, decen
 ONBOARD_blockchain_content__2   :  'It keeps track of who sent how many coins to whom, and what the balance of every account is.',
 ONBOARD_blockchain_content__3   :  'It is stored and maintained by thousands of people (miners) across the globe who have special computers.',
 ONBOARD_blockchain_content__4   :  'The blocks in the blockchain are made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.',
-ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
+ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [explorer.egem.io](https://explorer.egem.io), you are seeing data on the blockchain, not in our personal systems.',
 ONBOARD_blockchain_content__6   :  'Again: **we are not a bank**.',
 ONBOARD_interface_title__alt    :  'MEW is an Interface',
 ONBOARD_why_title__alt          :  'But...why does this matter?',
@@ -745,7 +745,7 @@ HELP_5CX_Desc_7             : 'Nawiguj do rozpakowanego folderu, który ściągn
 HELP_5CX_Desc_8             : 'Rozszerzenie powinno się pojawić na liście i w pasku rozszerzeń przeglądarki Chrome. ',
 
 HELP_7_Title                : '7) Jak się wysyła Tokeny i jak tworzyć własne Tokeny? ',
-HELP_7_Desc_0               : '[Ethplorer.io](https://ethplorer.io/) jest świetnym miejscem na przeglądanie tokenów oraz sprawdzenia ich ilości miejsc po przecinku. ',
+HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) jest świetnym miejscem na przeglądanie tokenów oraz sprawdzenia ich ilości miejsc po przecinku. ',
 HELP_7_Desc_1               : 'Przejdź na zakładkę "Wyślij Ether i Tokeny". ',
 HELP_7_Desc_2               : 'Odblokuj portfel. ',
 HELP_7_Desc_3               : 'Wpisz adres, na który chcesz je przesłać w pole "Do Adresu:". ',
@@ -830,7 +830,7 @@ HELP_15_Title               : '15) Dlaczego portfel, który właśnie wygenerowa
 HELP_15_Desc_1              : 'Adres pojawi się w eksploratorze bloków dopiero jak adres portfela będzie uczestniczył w jakichś transakcjach, np. jak wyślesz do niego jakieś środki. ',
 
 HELP_16_Title               : '16) Jak sprawdzić stan mojego konta? ',
-HELP_16_Desc_1              : 'Możesz użyć eksploratora bloków jak [explorer.egem.io](https://explorer.egem.io/). Wklej swój adres w wyszukiwarkę na stronie eksploratora, pokaże ona stan Twojego konta oraz historię transakcji. Tak na przykład wygląda nasze [konto donacji](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) na etherscan.io. ',
+HELP_16_Desc_1              : 'Możesz użyć eksploratora bloków jak [explorer.egem.io](https://explorer.egem.io/). Wklej swój adres w wyszukiwarkę na stronie eksploratora, pokaże ona stan Twojego konta oraz historię transakcji. Tak na przykład wygląda nasze [konto donacji](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) na explorer.egem.io. ',
 
 HELP_17_Title               : '17) Dlaczeg stan mojego konta nie pojawia się, kiedy odblokowuje mój portfel? ',
 HELP_17_Desc_1              : 'Najprawdopodobniej przyczyną tego jest firewall. API, które używamy do odczytu stanu konta oraz jego konwersji jest często blokowane przez firewall z różnych przyczyn. Wciąż możesz wysyłać transakcje, jednak stan konta musisz sprawdzać w inny sposób, np. na [explorer.egem.io](https://explorer.egem.io/) ',

@@ -1,6 +1,6 @@
 'use strict';
 var etherscan = function() {}
-etherscan.SERVERURL = "https://api.etherscan.io/api";
+etherscan.SERVERURL = "https://api.explorer.egem.io/api";
 etherscan.pendingPosts = [];
 etherscan.config = {
     headers: {

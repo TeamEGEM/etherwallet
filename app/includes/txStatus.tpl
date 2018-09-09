@@ -99,7 +99,7 @@
               To Address
             </td>
             <td>
-              <a href="https://explorer.egem.io/address/{{ txInfo.to }}" target="_blank" rel="noopener noreferrer">
+              <a href="https://explorer.egem.io/addrss/{{ txInfo.to }}" target="_blank" rel="noopener noreferrer">
                 {{ txInfo.to }}
               </a>
             </td>

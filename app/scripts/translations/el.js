@@ -138,7 +138,7 @@ ONBOARD_blockchain_content__1   :  'The blockchain is like a huge, global, decen
 ONBOARD_blockchain_content__2   :  'It keeps track of who sent how many coins to whom, and what the balance of every account is.',
 ONBOARD_blockchain_content__3   :  'It is stored and maintained by thousands of people (miners) across the globe who have special computers.',
 ONBOARD_blockchain_content__4   :  'The blocks in the blockchain are made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.',
-ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
+ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [explorer.egem.io](https://explorer.egem.io), you are seeing data on the blockchain, not in our personal systems.',
 ONBOARD_blockchain_content__6   :  'Again: **we are not a bank**.',
 ONBOARD_interface_title__alt    :  'MEW is an Interface',
 ONBOARD_why_title__alt          :  'But...why does this matter?',
@@ -748,7 +748,7 @@ HELP_5CX_Desc_7             : 'Navigate to the now-unzipped folder that you down
 HELP_5CX_Desc_8             : 'The extension should now show up in your extensions and in your Chrome Extension bar. ',
 
 HELP_7_Title                : '7) Πώς μπορώ να στείλω μάρκες και να προσθέσω προσαρμοσμένες μάρκες; ',
-HELP_7_Desc_0               : 'Το [Ethplorer.io](https://ethplorer.io/) είναι ένας πολύ καλός τρόπος για να εξερευνήσετε τις διάφορες μάρκες και να βρείτε τα δεκαδικά ψηφία μιας μάρκας. ',
+HELP_7_Desc_0               : 'Το Erc20.egem.io(http://erc20.egem.io/) είναι ένας πολύ καλός τρόπος για να εξερευνήσετε τις διάφορες μάρκες και να βρείτε τα δεκαδικά ψηφία μιας μάρκας. ',
 HELP_7_Desc_1               : 'Μεταβείτε στη σελίδα «Αποστολή αιθέρα και μαρκών». ',
 HELP_7_Desc_2               : 'Ξεκλειδώστε το πορτοφόλι σας. ',
 HELP_7_Desc_3               : 'Εισαγάγετε τη διεύθυνση στην οποία θέλετε να αποστείλετε στο πεδίο «Προς διεύθυνση:». ',
@@ -833,10 +833,10 @@ HELP_15_Title               : '15) Γιατί δεν έχει εμφανιστε
 HELP_15_Desc_1              : 'Ένας λογαριασμός εμφανίζεται σε έναν εξερευνητή blockchain μόνο όταν ο λογαριασμός έχει δραστηριότητα&mdash;για παράδειγμα, αφού μεταφέρετε κάποιο ποσό Αιθέρα σε αυτόν. ',
 
 HELP_16_Title               : '16) Πώς ελέγχω το υπόλοιπο του λογαριασμού μου; ',
-HELP_16_Desc_1              : 'Μπορείτε να χρησιμοποιήσετε έναν εξερευνητή blockchain όπως το [explorer.egem.io](https://explorer.egem.io/). Επικολλήστε τη διεύθυνσή σας στη γραμμή αναζήτησης και θα ανασύρει τη διεύθυνση και το ιστορικό συναλλαγών σας. Για παράδειγμα, δείτε πώς φαίνεται ο [λογαριασμός μας για δωρέες](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) στο etherscan.io ',
+HELP_16_Desc_1              : 'Μπορείτε να χρησιμοποιήσετε έναν εξερευνητή blockchain όπως το [explorer.egem.io](https://explorer.egem.io/). Επικολλήστε τη διεύθυνσή σας στη γραμμή αναζήτησης και θα ανασύρει τη διεύθυνση και το ιστορικό συναλλαγών σας. Για παράδειγμα, δείτε πώς φαίνεται ο [λογαριασμός μας για δωρέες](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) στο explorer.egem.io ',
 
 HELP_17_Title               : '17) Γιατί δεν εμφανίζεται το υπόλοιπό μου όταν ξεκλειδώνω το πορτοφόλι μου; ',
-HELP_17_Desc_1              : 'Αυτό πιθανότατα οφείλεται στο γεγονός ότι βρίσκεστε πίσω από κάποιο τείχος προστασίας. Το API που χρησιμοποιούμε για να πάρουμε το υπόλοιπο και να μετατρέψουμε το εν λόγω υπόλοιπο συχνά εμποδίζεται από τείχη προστασίας για διάφορους λόγους. Θα εξακολουθείτε να είστε σε θέση να αποστείλετε συναλλαγές, απλά πρέπει να χρησιμοποιήσετε μια διαφορετική μέθοδο για να δείτε το εν λόγω υπόλοιπο, όπως το etherscan.io ',
+HELP_17_Desc_1              : 'Αυτό πιθανότατα οφείλεται στο γεγονός ότι βρίσκεστε πίσω από κάποιο τείχος προστασίας. Το API που χρησιμοποιούμε για να πάρουμε το υπόλοιπο και να μετατρέψουμε το εν λόγω υπόλοιπο συχνά εμποδίζεται από τείχη προστασίας για διάφορους λόγους. Θα εξακολουθείτε να είστε σε θέση να αποστείλετε συναλλαγές, απλά πρέπει να χρησιμοποιήσετε μια διαφορετική μέθοδο για να δείτε το εν λόγω υπόλοιπο, όπως το explorer.egem.io ',
 
 HELP_18_Title               : '18) Where is my geth wallet file? ',
 

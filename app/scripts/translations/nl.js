@@ -138,7 +138,7 @@ ONBOARD_blockchain_content__1   :  'The blockchain is like a huge, global, decen
 ONBOARD_blockchain_content__2   :  'It keeps track of who sent how many coins to whom, and what the balance of every account is.',
 ONBOARD_blockchain_content__3   :  'It is stored and maintained by thousands of people (miners) across the globe who have special computers.',
 ONBOARD_blockchain_content__4   :  'The blocks in the blockchain are made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.',
-ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
+ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [explorer.egem.io](https://explorer.egem.io), you are seeing data on the blockchain, not in our personal systems.',
 ONBOARD_blockchain_content__6   :  'Again: **we are not a bank**.',
 ONBOARD_interface_title__alt    :  'MEW is an Interface',
 ONBOARD_why_title__alt          :  'But...why does this matter?',
@@ -606,7 +606,7 @@ GETH_GasLimit               : 'Overstijgt blok gas limiet ',
 GETH_NegativeValue          : 'Negative waarde ',
 
 /* Parity Error Messages */
-PARITY_AlreadyImported      : "(parity-01) Transactie met dezelfde hash was reeds geimporteerd. A transaction with the same hash was already imported. It was probably already broadcast. To avoid duplicate transactions, check your address on [etherscan.io](https://etherscan.io) & wait 10 minutes before attempting to send again. [Learn More.](https://myetherwallet.github.io/knowledge-base/transactions/transactions-not-showing-or-pending.html)",
+PARITY_AlreadyImported      : "(parity-01) Transactie met dezelfde hash was reeds geimporteerd. A transaction with the same hash was already imported. It was probably already broadcast. To avoid duplicate transactions, check your address on [explorer.egem.io](https://explorer.egem.io) & wait 10 minutes before attempting to send again. [Learn More.](https://myetherwallet.github.io/knowledge-base/transactions/transactions-not-showing-or-pending.html)",
 PARITY_GasLimitExceeded     : "(parity-02) Transactie kosten overstijgen de huidige gas limiet. Limiet: {}, momenteel: {}. Probeer de hoeveelheid gas te verminderen. Transaction cost exceeds current gas limit. Limit: (d+), got: (d+). Please lower the gas limit to 21000 (for sending) or 200000 (for sending tokens or contracts) and try again. [Learn More](https://myetherwallet.github.io/knowledge-base/gas/what-is-gas-ethereum.html)",
 PARITY_InsufficientBalance  : "(parity-03) Ontoereikend saldo. Het account waarvan je probeert te versturen bevat niet voldoende saldo. Vereist {} en momenteel: {}. Insufficient balance. The account you tried to send transaction from does not have enough funds. If you believe this is in error, try using the 'Send Entire Balance' button, or pressing generate again. Required (d+) and got: (d+). [Learn More.](https://myetherwallet.github.io/knowledge-base/transactions/transactions-not-showing-or-pending.html)",
 PARITY_InsufficientGasPrice : "(parity-04) Transactie vergoeding is te laag. Het voldoet niet aan je node's minimale vergoeding (minimaal: {}, momenteel: {}). Probeer je transactie vergoeding te verhogen. There is another transaction with same nonce in the queue, or the transaction fee is too low. Try incrementing the nonce by clicking the Generate button again. [Learn More.](https://myetherwallet.github.io/knowledge-base/transactions/transactions-not-showing-or-pending.html)",
@@ -728,7 +728,7 @@ HELP_5CX_Desc_7             : 'Navigeer naar de nu ge-unzipte map die je eerder 
 HELP_5CX_Desc_8             : 'De extensie zou nu moeten verschijnen in je extensies en in je Chrome Extensie balk. ',
 
 HELP_7_Title                : '7) Hoe verzend ik Tokens & voeg ik alternatieve tokens toe? ',
-HELP_7_Desc_0               : '[Ethplorer.io](https://ethplorer.io/) is a goede manier om tokens te verkenen en de getallen omtrent het token op te zoeken. ',
+HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/) is a goede manier om tokens te verkenen en de getallen omtrent het token op te zoeken. ',
 HELP_7_Desc_1               : 'Navigeer naar de "Verzend Token" pagina. ',
 HELP_7_Desc_2               : 'Ontsleutel je wallet. ',
 HELP_7_Desc_3               : 'Voer het adres in waar naar je wilt versturen in het "Aan adres:" veld. ',
@@ -813,10 +813,10 @@ HELP_15_Title               : '15) Hoe komt het dat het wallet wat ik zojuist he
 HELP_15_Desc_1              : 'Adresen zullen enkel in een blockchain explorer worden weergegeven zodra er activiteit op een account heeft plaats gevonden. Bijvoorbeeld, zodra je er wat Ether naar toe verzonden hebt. ',
 
 HELP_16_Title               : '16) Hoe check ik het saldo van mijn account? ',
-HELP_16_Desc_1              : 'Je kunt hiervoor een blockchain explorer gebruiken zoals bijvoorbeeld [explorer.egem.io](https://explorer.egem.io/). Plak daar je adres in de zoekbalk en je adres en transactie geschiedenis zullen worden getoond. Bekijk bijvoobeeld hoe ons [donatie account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D)  eruit ziet op etherscan.io ',
+HELP_16_Desc_1              : 'Je kunt hiervoor een blockchain explorer gebruiken zoals bijvoorbeeld [explorer.egem.io](https://explorer.egem.io/). Plak daar je adres in de zoekbalk en je adres en transactie geschiedenis zullen worden getoond. Bekijk bijvoobeeld hoe ons [donatie account](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D)  eruit ziet op explorer.egem.io ',
 
 HELP_17_Title               : '17) Waarom wordt mijn saldo niet weergegeven nadat ik mijn wallet heb ontsleuteld? ',
-HELP_17_Desc_1              : 'Dit wordt zeer waarschijnlijk veroorzaakt door het feit dat je achter een firwall zit. De API waarvan we gebruik maken om je saldo op te halen en te converteren wordt vaak geblokkeerd door firewalls om wat voor reden dan ook. Het is nog steeds mogelijk om transacties te verzenden, je hebt enkel een andere methode nodig om je saldo the checken, zoals bijvoorbeeld etherscan.io ',
+HELP_17_Desc_1              : 'Dit wordt zeer waarschijnlijk veroorzaakt door het feit dat je achter een firwall zit. De API waarvan we gebruik maken om je saldo op te halen en te converteren wordt vaak geblokkeerd door firewalls om wat voor reden dan ook. Het is nog steeds mogelijk om transacties te verzenden, je hebt enkel een andere methode nodig om je saldo the checken, zoals bijvoorbeeld explorer.egem.io ',
 
 HELP_18_Title               : '18) Waar is mijn Geth wallet bestand? ',
 

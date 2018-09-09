@@ -138,7 +138,7 @@ ONBOARD_blockchain_content__1   :  'The blockchain is like a huge, global, decen
 ONBOARD_blockchain_content__2   :  'It keeps track of who sent how many coins to whom, and what the balance of every account is.',
 ONBOARD_blockchain_content__3   :  'It is stored and maintained by thousands of people (miners) across the globe who have special computers.',
 ONBOARD_blockchain_content__4   :  'The blocks in the blockchain are made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.',
-ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
+ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [explorer.egem.io](https://explorer.egem.io), you are seeing data on the blockchain, not in our personal systems.',
 ONBOARD_blockchain_content__6   :  'Again: **we are not a bank**.',
 ONBOARD_interface_title__alt    :  'MEW is an Interface',
 ONBOARD_why_title__alt          :  'But...why does this matter?',
@@ -541,7 +541,7 @@ GETH_NegativeValue              :  '(geth-07) مقدار منفی. Negative valu
 GETH_Nonce                      :  "(geth-08) This TX's [nonce](https://myetherwallet.github.io/knowledge-base/transactions/what-is-nonce.html) is too low. Try incrementing the nonce by pressing the Generate button again, or [replace the pending transaction](https://myetherwallet.github.io/knowledge-base/transactions/check-status-of-ethereum-transaction.html).",
 GETH_NonExistentAccount         :  '(geth-09) حساب وجود ندارد و یا موجودی حساب کم است. Account does not exist or account balance too low',
 
-PARITY_AlreadyImported          :  "(parity-01) A transaction with the same hash was already imported. It was probably already broadcast. To avoid duplicate transactions, check your address on [etherscan.io](https://etherscan.io) & wait 10 minutes before attempting to send again. [Learn More.](https://myetherwallet.github.io/knowledge-base/transactions/transactions-not-showing-or-pending.html)",
+PARITY_AlreadyImported          :  "(parity-01) A transaction with the same hash was already imported. It was probably already broadcast. To avoid duplicate transactions, check your address on [explorer.egem.io](https://explorer.egem.io) & wait 10 minutes before attempting to send again. [Learn More.](https://myetherwallet.github.io/knowledge-base/transactions/transactions-not-showing-or-pending.html)",
 PARITY_GasLimitExceeded         :  "(parity-02) Transaction cost exceeds current gas limit. Limit: (d+), got: (d+). Please lower the gas limit to 21000 (for sending) or 200000 (for sending tokens or contracts) and try again. [Learn More](https://myetherwallet.github.io/knowledge-base/gas/what-is-gas-ethereum.html)",
 PARITY_InsufficientBalance      :  "(parity-03) Insufficient balance. The account you tried to send transaction from does not have enough funds. If you believe this is in error, try using the 'Send Entire Balance' button, or pressing generate again. Required (d+) and got: (d+). [Learn More.](https://myetherwallet.github.io/knowledge-base/transactions/transactions-not-showing-or-pending.html)",
 PARITY_InsufficientGasPrice     :  "(parity-04) There is another transaction with same nonce in the queue, or the transaction fee is too low. Try incrementing the nonce by clicking the Generate button again. [Learn More.](https://myetherwallet.github.io/knowledge-base/transactions/transactions-not-showing-or-pending.html)",
@@ -673,7 +673,7 @@ HELP_5CX_Desc_7: 'به پوشه ای که به تازگی از حالت فشرد
 HELP_5CX_Desc_8: 'افزونه حالا باید در قسمت افزونه های Chrom Extension نمایش داده شود. ',
 
 HELP_7_Title: 'سوال 7: چگونه توکن ارسال کنم و توکن custom اضافه کنم؟ ',
-HELP_7_Desc_0: 'از طریق [Ethplorer.io](https://ethplorer.io/) می توانید توکن ها را بررسی کنید و دهدهی های یک توکن را ببینید. ',
+HELP_7_Desc_0: 'از طریق Erc20.egem.io(http://erc20.egem.io/) می توانید توکن ها را بررسی کنید و دهدهی های یک توکن را ببینید. ',
 HELP_7_Desc_1: 'به صفحه ""ارسال اتر و توکن ها"" بروید. ',
 HELP_7_Desc_2: 'کیف پول خود را باز کنید. ',
 HELP_7_Desc_3: 'در بخش ""به آدرس:""، آدرسی که می خواهید به آن اتر بفرستید را وارد کنید. ',
@@ -758,10 +758,10 @@ HELP_15_Title: 'سوال 15: چرا حسابی که همین الان ساخته
 HELP_15_Desc_1: 'HELP_15_Desc_1',
 
 HELP_16_Title: 'سوال 16: چگونه موجودی حساب خود را ببینم؟ ',
-HELP_16_Desc_1: 'برای این کار می توانید از یک مرورگر بلاکچین مثل  [explorer.egem.io](https://explorer.egem.io/) استفاده کنید. آدرس خود را در قسمت search (جستجو) وارد کنید و بعد می توانید آدرس و سابقه تراکنش های خود را مشاهده کنید. برای مثال حساب اهدایی ما [بدین صورت](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) است. ',
+HELP_16_Desc_1: 'برای این کار می توانید از یک مرورگر بلاکچین مثل  [explorer.egem.io](https://explorer.egem.io/) استفاده کنید. آدرس خود را در قسمت search (جستجو) وارد کنید و بعد می توانید آدرس و سابقه تراکنش های خود را مشاهده کنید. برای مثال حساب اهدایی ما [بدین صورت](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) است. ',
 
 HELP_17_Title: 'سوال 17: چرا زمانی که قفل کیف پول خود را باز می کنم موجودی من نمایش داده نمی شود؟ ',
-HELP_17_Desc_1: 'این موضوع احتمالا بخاطر این است که شما پشت یک firewall (دیوار آتشین) هستید. API که ما برای بدست آوردن موجودی استفاده می کنیم به دلایلی معمولا توسط فایر وال ها بلاک می شوند. شما همچنان می توانید تراکنش هایتان را ارسال کنید و برای دیدن موجودی خود تنها باید از راه دیگری (مثل etherscan.io) استفاده کنید. ',
+HELP_17_Desc_1: 'این موضوع احتمالا بخاطر این است که شما پشت یک firewall (دیوار آتشین) هستید. API که ما برای بدست آوردن موجودی استفاده می کنیم به دلایلی معمولا توسط فایر وال ها بلاک می شوند. شما همچنان می توانید تراکنش هایتان را ارسال کنید و برای دیدن موجودی خود تنها باید از راه دیگری (مثل explorer.egem.io) استفاده کنید. ',
 
 HELP_18_Title: 'سوال 18: فایل مربوط به کیف پول geth کجا قرار دارد؟ ',
 

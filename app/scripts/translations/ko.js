@@ -145,7 +145,7 @@ ONBOARD_blockchain_content__1   :  '블록체인은 거대한, 전세계적인, 
 ONBOARD_blockchain_content__2   :  '블록체인은 누가 누구에게 코인을 얼마나 보냈는지, 각 계정의 잔고는 얼마인지 계속 파악합니다.',
 ONBOARD_blockchain_content__3   :  '특별한 컴퓨터를 가진 전세계 수천명의 사람(채굴자)에 의해 저장되고 유지됩니다.',
 ONBOARD_blockchain_content__4   :  '블록체인의 블록은 MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity 등에 의해 전송된 모든 개별 트랜잭션으로 구성됩니다.',
-ONBOARD_blockchain_content__5   :  'MyEtherWallet.com 혹은 [etherscan.io](https://etherscan.io)을 통해서 보는 잔액은 개인 시스템이 아닌 블록체인의 데이터를 보고 있는 것입니다.',
+ONBOARD_blockchain_content__5   :  'MyEtherWallet.com 혹은 [explorer.egem.io](https://explorer.egem.io)을 통해서 보는 잔액은 개인 시스템이 아닌 블록체인의 데이터를 보고 있는 것입니다.',
 ONBOARD_blockchain_content__6   :  '다시 한 번 말하지만: **우리는 은행이 아닙니다**.',
 ONBOARD_interface_title__alt    :  'MEW는 인터페이스입니다',
 ONBOARD_why_title__alt          :  '그런데...이게 왜 중요하죠?',
@@ -637,12 +637,12 @@ translate_version           : '0.5 ',
  *  See also: https://steemit.com/kr/@coinkorea/2sjvow-myetherwallet
  *  Contributors:
  *   [CoinKorea](https://steemit.com/@coinkorea)
- *   [kanghamin](https://etherscan.io/address/https://0x7B12655A5aada0b3c053C7ff5aa444Bd666A0163)
- *   [maa](https://etherscan.io/address/0x14036e41ddb2bd408eaf91597e6dc5220f776ae0)
- *   [Issac](https://etherscan.io/address/0x594a7773f4e062ccf644e8f122d5612b5f0db3b2)
- *   [coinmaker](https://etherscan.io/address/0x80B65285607BAbC4b60a7179A0fa8EB42232b9ad)
- *   [csjune](https://etherscan.io/address/0xfc465E0545c1024d04ceA2d6D154F20E7C67C66f)
- *   [sadfrog](https://etherscan.io/address/0x608c96865c3d1364ffc5137e5ac78b57e58714d4)
+ *   [kanghamin](https://explorer.egem.io/addr/https://0x7B12655A5aada0b3c053C7ff5aa444Bd666A0163)
+ *   [maa](https://explorer.egem.io/addr/0x14036e41ddb2bd408eaf91597e6dc5220f776ae0)
+ *   [Issac](https://explorer.egem.io/addr/0x594a7773f4e062ccf644e8f122d5612b5f0db3b2)
+ *   [coinmaker](https://explorer.egem.io/addr/0x80B65285607BAbC4b60a7179A0fa8EB42232b9ad)
+ *   [csjune](https://explorer.egem.io/addr/0xfc465E0545c1024d04ceA2d6D154F20E7C67C66f)
+ *   [sadfrog](https://explorer.egem.io/addr/0x608c96865c3d1364ffc5137e5ac78b57e58714d4)
  *
  * - 2nd join translation proposed by @hackmod aka ethminer at 2018/05/28
  *  PR: https://github.com/kvhnuke/etherwallet/pull/1875
@@ -759,7 +759,7 @@ HELP_5CX_Desc_7             : '조금 전 다운로드해서 압축을 푼 폴�
 HELP_5CX_Desc_8             : '여기까지 하셨다면 마이이더월렛은 당신의 Chrome 확장 프로그램 창에 나타나서 Chrome 확장 프로그램 바에 생기게 됩니다. ',
 
 HELP_7_Title                : '7) 어떻게 하면 토큰을 전송하고 사용자 정의 토큰을 추가할 수 있나요? ',
-HELP_7_Desc_0               : '[Ethplorer.io](https://ethplorer.io/)에서 토큰을 탐색하여 토큰의 decimals를 찾을 수 있습니다. ',
+HELP_7_Desc_0               : 'Erc20.egem.io(http://erc20.egem.io/)에서 토큰을 탐색하여 토큰의 decimals를 찾을 수 있습니다. ',
 HELP_7_Desc_1               : '이더리움 & 토큰 전송 페이지로 이동합니다. ',
 HELP_7_Desc_2               : '지갑을 잠금 해제 합니다. ',
 HELP_7_Desc_3               : '보낼 주소 입력란에 전송하고 싶은 주소를 입력합니다. ',
@@ -843,10 +843,10 @@ HELP_15_Title               : '15) 방금 만든 계정이 블록체인 탐색�
 HELP_15_Desc_1              : '계정은 거래 활동이 있을 경우에만 블록체인 탐색기에 표시됩니다. 예를 들어, 이더리움을 계정으로 이동시키면 계정이 활성화됩니다. ',
 
 HELP_16_Title               : '16) 내 계정의 잔액을 어떻게 확인하나요? ',
-HELP_16_Desc_1              : '[explorer.egem.io](https://explorer.egem.io/)와 같은 블록체인 탐색기를 사용할 수 있습니다. 주소를 검색 창에 붙여넣으면 주소와 거래 내역이 표시됩니다. 예를 들어, 저희의 [기부 계정](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D)과 같은 식으로 보입니다. ',
+HELP_16_Desc_1              : '[explorer.egem.io](https://explorer.egem.io/)와 같은 블록체인 탐색기를 사용할 수 있습니다. 주소를 검색 창에 붙여넣으면 주소와 거래 내역이 표시됩니다. 예를 들어, 저희의 [기부 계정](https://explorer.egem.io/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D)과 같은 식으로 보입니다. ',
 
 HELP_17_Title               : '17) 내 지갑에서 잔액이 표시되지 않는 이유는 뭔가요? ',
-HELP_17_Desc_1              : '그 이유는 방화벽 때문입니다. 우리가 잔액 정보를 얻고 잔액 정보를 변환하는 데 사용하는 API는 어떤 이유로 든 방화벽에 의해 차단되는 경우가 많습니다. 사용자는 계속해서 트랜잭션을 보낼 수 있습니다. 당신은 단지 잔액을 확인하기 위해 etherscan.io 블록체인 탐색 사이트와 같은 다른 방법을 사용해야 될 수 있습니다. ',
+HELP_17_Desc_1              : '그 이유는 방화벽 때문입니다. 우리가 잔액 정보를 얻고 잔액 정보를 변환하는 데 사용하는 API는 어떤 이유로 든 방화벽에 의해 차단되는 경우가 많습니다. 사용자는 계속해서 트랜잭션을 보낼 수 있습니다. 당신은 단지 잔액을 확인하기 위해 explorer.egem.io 블록체인 탐색 사이트와 같은 다른 방법을 사용해야 될 수 있습니다. ',
 
 HELP_18_Title               : '18) 내 geth 지갑 파일이 어디 있나요? ',
 
